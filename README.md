@@ -1,7 +1,13 @@
-[![Kilamieaz GitHub stats](https://github-readme-stats.vercel.app/api?username=kilamieaz)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![@kilamieaz's Holopin board](https://holopin.me/kilamieaz)](https://holopin.io/@kilamieaz)
+
+<hr>
+<details>
+    <summary>Github Statistics...</summary>
+    <p align='center'>
+        <img src="https://github-readme-stats.vercel.app/api?username=kilamieaz&show_icons=true">
+    </p>
+</details>
+<hr>
 
 <!--
 **kilamieaz/kilamieaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
