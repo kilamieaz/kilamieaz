@@ -4,7 +4,7 @@
 <details>
     <summary>Github Statistics...</summary>
     <p align='center'>
-        <img src="https://github-readme-stats.vercel.app/api?username=kilamieaz&show_icons=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=kilamieaz&show_icons=true&count_private=true&theme=synthwave&custom_title=Kilamieaz">
     </p>
 </details>
 <hr>
