@@ -1,4 +1,5 @@
-### Hi there 👋
+[![Kilamieaz GitHub stats](https://github-readme-stats.vercel.app/api?username=kilamieaz)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![@kilamieaz's Holopin board](https://holopin.me/kilamieaz)](https://holopin.io/@kilamieaz)
 
