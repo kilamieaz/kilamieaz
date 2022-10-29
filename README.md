@@ -32,6 +32,10 @@
 </p>
 <hr>
 
+<details>
+<summary><h3 align="left">:telescope: Wakatime Details:</h3></summary>
+<p align="center"> 
+    
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
@@ -78,6 +82,9 @@ VS Code                  17 hrs 18 mins      ███████████�
 
  Last Updated on 29/10/2022 08:43:16 UTC
 <!--END_SECTION:waka-->
+    
+</p>
+</details>
 
 <!-- <details>
 <summary>test</summary>
