@@ -32,6 +32,7 @@ I´m Sultan
         <img src="https://github-profile-trophy.vercel.app/?username=kilamieaz&theme=dracula" alt="kilamieaz" />
     </a> 
 </p>
+<hr>
 
 <!-- <details>
 <summary>test</summary>
@@ -44,7 +45,11 @@ I´m Sultan
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kilamiaz&label=Profile%20views&color=292138&style=flat-square" alt="kilamiaz" /> </p>
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=kilamiaz&label=Profile%20views&color=292138&style=flat-square" alt="kilamiaz" />
+<img src="https://wakatime.com/badge/user/24e0ad24-ff8e-425c-9eaa-977bfdcea892.svg" alt="kilamiaz" /> 
+</p>
+
 
 <!--
 **kilamieaz/kilamieaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
