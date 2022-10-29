@@ -17,7 +17,7 @@
 <h3 align="left">:zap: GitHub Stats:</h3>
 <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api?username=kilamieaz&show_icons=true&count_private=true&theme=synthwave&custom_title=Kilamieaz">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kilamieaz&theme=synthwave&api_domain=">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kilamieaz&theme=synthwave&langs_count=5&v=2">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilamieaz&layout=compact&count_private=true&theme=synthwave" />
 </p>
 
@@ -50,18 +50,3 @@
 <img src="https://wakatime.com/badge/user/24e0ad24-ff8e-425c-9eaa-977bfdcea892.svg" alt="kilamiaz" /> 
 </p>
 
-
-<!--
-**kilamieaz/kilamieaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
