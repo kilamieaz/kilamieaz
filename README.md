@@ -2,7 +2,7 @@
 
 I´m Sultan
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">:open_hands: Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kilamieaz" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kilamieaz"/></a>
 <a href="https://instagram.com/im_sultaan" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="im_sultaan"/></a>
@@ -17,6 +17,12 @@ I´m Sultan
 <h3 align="left">:zap: GitHub Stats:</h3>
 <p align='center'>
     <img src="https://github-readme-stats.vercel.app/api?username=kilamieaz&show_icons=true&count_private=true&theme=synthwave&custom_title=Kilamieaz">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kilamieaz&theme=synthwave&api_domain=">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilamieaz&layout=compact&count_private=true&theme=synthwave" />
+</p>
+
+<h3 align="left">:boom: Streak Stats:</h3>
+<p align='center'>
     <img src="https://streak-stats.demolab.com?user=kilamieaz&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D"> 
 </p>
 
