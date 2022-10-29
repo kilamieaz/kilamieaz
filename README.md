@@ -16,7 +16,7 @@
 <hr>
 <h3 align="left">:zap: GitHub Stats:</h3>
 <p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api?username=kilamieaz&show_icons=true&count_private=true&theme=synthwave&custom_title=Kilamieaz">
+    <img src="https://github-readme-stats.vercel.app/api?username=kilamieaz&show_icons=true&count_private=true&theme=synthwave&custom_title=Kilamieaz&include_all_commits=true">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kilamieaz&theme=synthwave&langs_count=5&v=2">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilamieaz&layout=compact&count_private=true&theme=synthwave" />
 </p>
@@ -28,9 +28,7 @@
 
 <h3 align="left">:trophy: GitHub Profile Trophy:</h3>
 <p align="center"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=kilamieaz&theme=dracula" alt="kilamieaz" />
-    </a> 
+    <img src="https://github-profile-trophy.vercel.app/?username=kilamieaz&theme=dracula&rank=S,AAA,AA,A,B,SECRET" alt="kilamieaz" />
 </p>
 <hr>
 
