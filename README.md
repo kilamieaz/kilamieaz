@@ -121,46 +121,47 @@
 <summary><h3>📊 Detailed Wakatime Stats</h3></summary>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-52.1%20million%20lines%20of%20code-blue)
 
-**🐤 I'm an Early Bird** 
-
-```text
-🌞 Morning    5976 commits    ██████▒░░░░░░░░░░░░░░░░░░   25.61 % 
-🌆 Daytime    11805 commits   ████████████▒░░░░░░░░░░░░   50.59 % 
-🌃 Evening    4789 commits    █████▒░░░░░░░░░░░░░░░░░░░   20.52 % 
-🌙 Night      765 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-```
-
-**📅 I'm Most Productive on Tuesday** 
+**I'm an Early 🐤** 
 
 ```text
-Monday       3373 commits    ███▒░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Tuesday      5108 commits    █████▒░░░░░░░░░░░░░░░░░░░   21.89 % 
-Wednesday    3117 commits    ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Thursday     4911 commits    █████▒░░░░░░░░░░░░░░░░░░░   21.05 % 
-Friday       3650 commits    ████▒░░░░░░░░░░░░░░░░░░░░   15.64 % 
-Saturday     1413 commits    █▒░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Sunday       1763 commits    ▒░░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
+🌞 Morning                6116 commits        ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.79 % 
+🌆 Daytime                12027 commits       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   50.72 % 
+🌃 Evening                4800 commits        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.24 % 
+🌙 Night                  770 commits         ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.25 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   3438 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.50 % 
+Tuesday                  5169 commits        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.80 % 
+Wednesday                3193 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.47 % 
+Thursday                 5001 commits        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.09 % 
+Friday                   3722 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.70 % 
+Saturday                 1422 commits        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.00 % 
+Sunday                   1768 commits        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.46 % 
 ```
 
-**📊 This Week I Spent My Time On** 
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Vue.js       7 hrs 54 mins   ██████████████▒░░░░░░░░░░   57.35 % 
-TypeScript   2 hrs 31 mins   ████▒░░░░░░░░░░░░░░░░░░░░   18.33 % 
-JavaScript   1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Docker       48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Other        40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Vue.js                   10 hrs 22 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   38.83 % 
+TypeScript               7 hrs 23 mins       ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   27.68 % 
+Svelte                   5 hrs 51 mins       ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.92 % 
+JSON                     1 hr 5 mins         ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.09 % 
+CSS                      55 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.49 % 
 
 🔥 Editors: 
-VS Code      13 hrs 47 mins  █████████████████████████   100.00 % 
+VS Code                  26 hrs 41 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
-Last Updated on 25/08/2024 18:43:09 UTC
+
+ Last Updated on 06/07/2025 08:10:26 UTC
 <!--END_SECTION:waka-->
 
 </details>
