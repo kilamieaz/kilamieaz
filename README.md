@@ -1,103 +1,186 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sultan Imam Muttaqin</h1>
-<h3 align="center">Web Developer at <a href="https://gli.id/">GLI</a></h3>
+<div align="center">
+  <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> I'm Sultan Imam Muttaqin</h1>
+</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Web+Developer+at+GLI;Full+Stack+Engineer;Vue.js+%26+Laravel+Enthusiast;Always+learning+new+technologies!" alt="Typing SVG" />
+</div>
 
-<h3 align="left">:mailbox: Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kilamieaz" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kilamieaz"/></a>
-<a href="https://instagram.com/im_sultaan" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="im_sultaan"/></a>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kilamieaz&label=Profile%20views&color=292138&style=for-the-badge" alt="Profile Views" />
+  <img src="https://wakatime.com/badge/user/24e0ad24-ff8e-425c-9eaa-977bfdcea892.svg?style=for-the-badge" alt="WakaTime" />
+</div>
 
-<p align='center'>
-    <img src="https://holopin.me/kilamieaz">
-</p>
+---
 
-<h3 align="left">:hammer_and_wrench: Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 🚀 About Me
 
-<hr>
-<h3 align="left">:zap: GitHub Stats:</h3>
-<p align='center'>
-    <img src="https://github-readme-stats.vercel.app/api?username=kilamieaz&show_icons=true&count_private=true&theme=synthwave&custom_title=Kilamieaz&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kilamieaz&theme=synthwave&langs_count=5&v=2">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilamieaz&layout=compact&count_private=true&theme=synthwave" />
-</p>
+> **Web Developer** passionate about creating scalable and efficient web applications. Currently working at **[GLI](https://gli.id/)** where I build amazing digital experiences.
 
-<h3 align="left">:boom: Streak Stats:</h3>
-<p align='center'>
-    <img src="https://streak-stats.demolab.com?user=kilamieaz&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D"> 
-</p>
+- 🔭 I'm currently working on **Vue.js and Laravel projects**
+- 🌱 I'm learning **Advanced TypeScript and GraphQL**
+- 💬 Ask me about **Vue.js, Laravel, TypeScript, and web development**
+- 📫 How to reach me: Check out my social links below!
+- ⚡ Fun fact: I've written **51.9 million lines of code** since I started coding!
 
-<h3 align="left">:trophy: GitHub Profile Trophy:</h3>
-<p align="center"> 
-    <img src="https://github-profile-trophy.vercel.app/?username=kilamieaz&theme=dracula" alt="kilamieaz" />
-</p>
-<hr>
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/kilamieaz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/im_sultaan" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20" alt="Instagram" />
+  </a>
+  <a href="https://github.com/kilamieaz" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="GitHub" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://holopin.me/kilamieaz" alt="Holopin badges" />
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 🎨 Frontend
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🔧 Tools & Others
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kilamieaz&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilamieaz&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kilamieaz&theme=synthwave&hide_border=true&background=0D1117&stroke=9D4EDD&ring=9D4EDD&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=9D4EDD&sideLabels=9D4EDD&dates=FFFFFF" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kilamieaz&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+</div>
+
+---
+
+## 💻 Weekly Development Breakdown
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kilamieaz&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&layout=compact&langs_count=10" />
+</div>
+
+---
+
+## 🔥 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kilamieaz&theme=synthwave&hide_border=true&bg_color=0D1117&color=9D4EDD&line=9D4EDD&point=FFFFFF" />
+</div>
+
+---
 
 <details>
-<summary><h3 align="left">:telescope: Wakatime Details:</h3></summary>
-<p align="center"> 
-    
+<summary><h3>📊 Detailed Wakatime Stats</h3></summary>
+
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51.9%20million%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
+**🐤 I'm an Early Bird** 
 
 ```text
-🌞 Morning                5976 commits        ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   25.61 % 
-🌆 Daytime                11805 commits       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   50.59 % 
-🌃 Evening                4789 commits        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.52 % 
-🌙 Night                  765 commits         ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.28 % 
+🌞 Morning    5976 commits    ██████▒░░░░░░░░░░░░░░░░░░   25.61 % 
+🌆 Daytime    11805 commits   ████████████▒░░░░░░░░░░░░   50.59 % 
+🌃 Evening    4789 commits    █████▒░░░░░░░░░░░░░░░░░░░   20.52 % 
+🌙 Night      765 commits     ▒░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+**📅 I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   3373 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   14.45 % 
-Tuesday                  5108 commits        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.89 % 
-Wednesday                3117 commits        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   13.36 % 
-Thursday                 4911 commits        ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.05 % 
-Friday                   3650 commits        ⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   15.64 % 
-Saturday                 1413 commits        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   06.06 % 
-Sunday                   1763 commits        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.56 % 
+Monday       3373 commits    ███▒░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+Tuesday      5108 commits    █████▒░░░░░░░░░░░░░░░░░░░   21.89 % 
+Wednesday    3117 commits    ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Thursday     4911 commits    █████▒░░░░░░░░░░░░░░░░░░░   21.05 % 
+Friday       3650 commits    ████▒░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Saturday     1413 commits    █▒░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Sunday       1763 commits    ▒░░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+**📊 This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Vue.js                   7 hrs 54 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   57.35 % 
-TypeScript               2 hrs 31 mins       ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.33 % 
-JavaScript               1 hr 11 mins        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.67 % 
-Docker                   48 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.88 % 
-Other                    40 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.86 % 
+Vue.js       7 hrs 54 mins   ██████████████▒░░░░░░░░░░   57.35 % 
+TypeScript   2 hrs 31 mins   ████▒░░░░░░░░░░░░░░░░░░░░   18.33 % 
+JavaScript   1 hr 11 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Docker       48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Other        40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 47 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+VS Code      13 hrs 47 mins  █████████████████████████   100.00 % 
 ```
 
-
- Last Updated on 25/08/2024 18:43:09 UTC
+Last Updated on 25/08/2024 18:43:09 UTC
 <!--END_SECTION:waka-->
-    
-</p>
+
 </details>
 
-<!-- <details>
-<summary>test</summary>
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=kilamieaz&theme=dracula" alt="kilamieaz" />
-</a> 
-</p>
-</details> -->
+---
 
+## 🎯 Current Focus
 
+- 🚀 Building scalable web applications with **Vue.js** and **Laravel**
+- 📱 Exploring **Progressive Web Apps (PWA)** development
+- 🎨 Mastering **UI/UX design principles**
+- 🔧 Improving **DevOps** skills with **Docker** and **CI/CD**
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=kilamiaz&label=Profile%20views&color=292138&style=flat-square" alt="kilamiaz" />
-<img src="https://wakatime.com/badge/user/24e0ad24-ff8e-425c-9eaa-977bfdcea892.svg" alt="kilamiaz" /> 
-</p>
+---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+</div>
+
+<div align="center">
+  <h3>💼 Open for freelance projects and collaboration!</h3>
+  <p>Let's connect and build something amazing together! 🚀</p>
+</div>
