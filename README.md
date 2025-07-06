@@ -184,8 +184,3 @@ Last Updated on 25/08/2024 18:43:09 UTC
   <h3>💼 Open for freelance projects and collaboration!</h3>
   <p>Let's connect and build something amazing together! 🚀</p>
 </div>
-
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=kilamiaz&label=Profile%20views&color=292138&style=flat-square" alt="kilamiaz" />
-<img src="https://wakatime.com/badge/user/24e0ad24-ff8e-425c-9eaa-977bfdcea892.svg" alt="kilamiaz" /> 
-</p>
